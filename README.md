@@ -1,1 +1,1 @@
-Seva-The Food Donation App
+Food Donation App
